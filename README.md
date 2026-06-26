@@ -1,3 +1,9 @@
 # First-Website
-<h6>Author: Abdul Wasy</h6>
-<p>This is my First webpage created using html .<br>I have added a main page which contain recipe page link of various foods</p>
+<h5>Author: Abdul Wasy</h5>
+<p>The first project from TOP. This project features a simple website that showcases recipes, by creating this project i aim to hone my git and html skills for now, i will be adding css and javascript later in this project. This will be the first project that i make in my programming journey. This project will be a really basic one but i want it to be included on my github profile so as to document my journey and consistency.</p>
+<h6>
+Major things practiced in this project :</h6>
+<ul>
+<li>HTML</li>
+<li>git</li>
+<li>writing good commit messages</li>
