@@ -68,3 +68,8 @@ transform:translateY(-10px)
     border-radius: 20px;
      
 }
+.display{
+    background-color: #6be1b2;
+    color: #f10404;
+    border-radius:10px
+}
