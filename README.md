@@ -10,6 +10,6 @@ Major things practiced in this project :</h6>
 <li>git</li>
 <li>CSS</li>
 <li>writing good commit messages</li>
-<p style="align:center; font-size:large;color:red">I hope you like it.<p>
+<p style="text-align:center; font-size:large;color:red">I hope you like it.</p>
 </body>
 </html>
