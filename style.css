@@ -1,33 +1,36 @@
 .indexbody{
-    background-color: rgb(23, 23, 22);
-     box-shadow: #7c7e80 0px 4px 10px;
+   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsfptJAncVrjdHUr74cry-qCa_1FKqXYnAMzH1rNkpDlttgfwp1mzln9M&s=10);
+  display:flex;
+  flex-direction: column;   
      padding:25px;
-     
+     gap:15px;
 }
 #header{
  
    text-align:center;
    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    font-size: 20px;
-   color: #e4eb0c;
-    background-color: rgb(21, 39, 238);
+   color: #eb260c;
+    background-color: rgba(169, 238, 21, 0.5);
     border-radius: 15px;
     padding: 10px 30px;
-   box-shadow:0px 4px 10px #f2ff00;
-   margin:20px 200px;
-margin-left:-5px;
+   box-shadow:0px 4px 10px #40413e;
 }
 
 
 
 
 .recipe-list{
+    display:flex;
+    height:400px;
+    justify-content: center;
     
-     background-color: #f3f05d;
+     background-color: rgba(247, 247, 5, 0.5);
     padding: 30px;
-   margin-right:200px;
+   
     border-radius: 15px;
-    box-shadow: 0px 5px 10px ; 
+    box-shadow: 0px 5px 10px ;
+    gap:100px; 
 }
 #biryaniheader,.kormaheader,.mandiheader{
     background-color: #ebe408;
@@ -79,23 +82,25 @@ transform:translateY(-10px)
     background-color: #100e02;
     }
 .indeximage{
-    height:100px;
+    height:200px;
+    width:300px;
     box-shadow:0px 2px 10px #7c7e80;
-    border-radius: 20px;    
-     
+    border-radius: 20px; 
+    opacity: 0.9;   
+    
 }
 
 .available{
     font-size:large;
     text-align:justify;
-      background-color: #1d70ee;
-    color:antiquewhite;
+      background-color:rgba(22, 22, 23, 0.5);
+    
+    color:rgb(246, 9, 9);
     padding: 10px ;
     border: 40px;
     border-radius: 15px;
     box-shadow: 0px 4px 7px rgb(23, 23, 22);
-    margin:2px;
-    margin-right:200px ;
+   
   
 }
 .biryaniimage{
@@ -110,4 +115,8 @@ margin:10px;
 border-radius: 50px;
 box-shadow: gray 0px 4px 8px;
  transition: transform 0.5s ease-out,box-shadow 0.5s ease-out;
+}
+.recipe-list a{
+    height:200px;
+    width:300px;
 }
